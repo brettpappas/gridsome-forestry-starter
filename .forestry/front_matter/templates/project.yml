@@ -36,7 +36,7 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
-- projects/3d-graff.md
 - projects/film-roll.md
+- projects/icecream-cone.md
 - projects/raspberry-pi.md
 - projects/sunk.md
