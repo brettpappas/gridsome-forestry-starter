@@ -37,6 +37,6 @@ fields:
   label: Foreground color
 pages:
 - projects/3d-graff.md
-- projects/ios-concept.md
+- projects/film-roll.md
 - projects/raspberry-pi.md
 - projects/sunk.md
