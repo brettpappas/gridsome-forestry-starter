@@ -1,12 +1,12 @@
 ---
 date: 2019-05-16
 year: 2019
-title: Banana
+title: Raspberry Pi 4
 category: Identity
-thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
+thumbnail: "/uploads/pi4-pinout.jpg"
 categories:
-- photography
-- pink
+- pi
+- computer
 project_bg_color: ''
 project_fg_color: ''
 
